@@ -1,0 +1,121 @@
+.footer_usecase_buttons {
+    float:right !important;   
+}
+
+.table-search-package{
+    width: 400px;
+}
+
+.lblCeilingPrice{
+    width: 50px;
+}
+
+.tableSearchPackageAdvance{
+    width: 200px;
+}
+
+.button-size{
+    padding: 0em 2em !important;
+    text-align: center !important;
+    text-align-last: center !important;
+    vertical-align: central !important;
+}
+
+.field-login{
+    width: 275px;
+    float: right;
+
+}
+
+.div-face-twitter{
+    padding-top: 2em;
+    float: right;
+}
+
+.body-image{
+    background-image: url("/OpTec/images/general/seguridadSI.jpg");
+    width: 100%;
+    height: 660px;
+    overflow:auto;
+    overflow-style: move;
+}
+
+.container-image{
+    width:950px;margin:0 auto;
+    background: none repeat scroll 0 50% transparent;;
+}
+
+.font-white{
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.required-blank{
+    color:#000;
+}
+
+.background-black{
+    background-color: #000;
+}
+
+.label-black{
+    color: #000;
+    font-weight: bold;    
+}
+
+.compactRadioGroup {
+    display: inline;
+}
+
+.field-width{
+    width: 400px;    
+}
+.container-custom-b2c {
+    width:1200px;
+    margin:0 auto;
+    height: 650px;
+    background: rgba(255,255,255,.5) !important;
+}
+
+.page-custom-b2c {
+    width:1100px;
+    margin:0 auto;
+    height:578px;
+    overflow: scroll;
+    padding: 54px 14px 15px;
+}
+
+.font-size-link{
+    font-size: 14px !important;
+}
+
+.line-unique{    
+    line-height: inherit;
+}
+
+.title-label{
+    padding: 5px 9px !important;
+    font-size: 22.844px !important;
+}
+
+.tbbox-content-news-main{
+    width:85% !important;
+    height:85% !important;
+    position: relative
+}
+.tbbox-content-news-buttons{
+    width:85% !important;
+    height:85% !important;
+    position: absolute left: 0; 
+    width: 100%; 
+    bottom: 0;
+}
+.sub-title-label{
+    padding: 5px 9px !important;
+    font-size: 17px !important;
+}
+.font-color-cel{
+    color: #0782C1;
+}
+
+
